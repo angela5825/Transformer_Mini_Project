@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Transformer 기반 모델 조사 - RoBERTa**
 
 
@@ -126,3 +127,6 @@ RoBERTa: A Robustly Optimized BERT Pretraining Approach 논문에서 저자들�
 
 
 
+=======
+# Transformer_Mini_Project
+>>>>>>> ecf7b384b8720ce3b11214d48c3a0af5e23fffd4
