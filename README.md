@@ -20,7 +20,7 @@ RoBERTa는 Encoder only-구조이다.
 
 ## **3️⃣ 사전 학습 방식** 
 
-RoBERTa는 BERT와 마찬가지로 **Masked Language Modeling(MLM)**을 중심으로 사전학습한다. 
+RoBERTa는 BERT와 마찬가지로 **Masked Language Modeling(MLM)** 을 중심으로 사전학습한다. 
 
 ### ※ MLM
 
