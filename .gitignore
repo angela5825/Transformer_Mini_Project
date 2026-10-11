@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+data/Training/01.원천데이터
+data/Validation/01.원천데이터
+
+*.pt
